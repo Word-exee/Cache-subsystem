@@ -94,9 +94,7 @@ always @(posedge clk) begin
             
          end
         end
-        if(1)begin 
-            storeDone=1;
-        end
+        
      end
 end
 
